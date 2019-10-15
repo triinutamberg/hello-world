@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="UTF 8" standalone="yes"?>
+<applications>
+    <application id="1152667">
+        <created>2019-02-22 16:10:33</created>
+        <cv>
+            <member_id>92135</member_id>
+            <cv_id>13158</cv_id>
+            <cv_lang>ee</cv_lang>
+            <appl_url>https://www.cvkeskus.ee</appl_url>
+            <pdf_url>https://www.ttu.ee/public/r/raamatukogu/juhendid/Skaneerimise_juhend.pdf</pdf_url>
+            <cv_headline>Olen avatud uutele kogemustele!</cv_headline>
+            <cv_object>Eesmärgiks on proovida uusi asju elus ning saada rohkem kogemusi erinevates valdkondades,</cv_object>
+            <first_name>This</first_name>
+            <last_name>Girl</last_name>
+            <birthdate>1990-3-2</birthdate>
+            <gender>naine</gender>
+            <mother_lang>eesti</mother_lang>
+            <m_status>abielus</m_status>
+            <email>ddduuuude@gmail.ee</email>
+            <phone>56628785</phone>
+            <address>Rapla maakond, Rapla linn, Piiri 2-4</address>
+            <photo/>
+            <uploaded_cv_url></uploaded_cv_url>
+            <des_job_cat1>Klienditeenindus</des_job_cat1>
+            <des_job_title1_0>klienditeenindaja</des_job_title1_0>
+            <work_arr_0>palgatöötaja</work_arr_0>
+            <time_of_work_0>täistööaeg</time_of_work_0>
+            <time_of_work_1></time_of_work_1>
+            <des_loc_city_0>Raplamaa</des_loc_city_0>
+            <elem_edu>1</elem_edu>
+            <elem_country_0>Eesti</elem_country_0>
+            <elem_inst_0>Rapla täiskasvanute Gümnaasium</elem_inst_0>
+            <elem_period_0>2010-2011</elem_period_0>
+            <sec_edu>1</sec_edu>
+            <sec_country_0>Eesti</sec_country_0>
+            <sec_inst_0>Rapla täiskasvanute Gümnaasium</sec_inst_0>
+            <sec_period_0>2017-</sec_period_0>
+            <voc_edu/>
+            <high_edu/>
+            <publications></publications>
+            <work_seniority>5 - 10 aastat</work_seniority>
+            <work_comp_country_0>Eesti</work_comp_country_0>
+            <work_comp_name_0>Selver Rapla</work_comp_name_0>
+            <work_comp_cat_0>Klienditeenindus</work_comp_cat_0>
+            <work_job_title_0>klienditeenindaja</work_job_title_0>
+            <work_period_0>08.2017 - </work_period_0>
+            <work_job_descr_0>Teenindan kliente nii saalis kui ka aegajalt kassas.</work_job_descr_0>
+            <work_comp_country_1>Eesti</work_comp_country_1>
+            <work_comp_name_1>Realiseerimiskeskus OÜ</work_comp_name_1>
+            <work_comp_cat_1>Klienditeenindus</work_comp_cat_1>
+            <work_job_title_1>klienditeenindaja</work_job_title_1>
+            <work_period_1>09.2012 - 08.2017</work_period_1>
+            <work_job_descr_1>Töötan nii saali peal kui ka kassas!</work_job_descr_1>
+            <work_comp_country_2>Eesti</work_comp_country_2>
+            <work_comp_name_2>Maxima (Rapla)</work_comp_name_2>
+            <work_comp_cat_2>Klienditeenindus</work_comp_cat_2>
+            <work_job_title_2>klienditeenindaja</work_job_title_2>
+            <work_period_2>09.2011 - 10.2012</work_period_2>
+            <work_job_descr_2>Olin nii kassas kui ka saali peal.</work_job_descr_2>
+            <drv_since_year_0>2012</drv_since_year_0>
+            <drv_license_0>B</drv_license_0>
+        </cv>
+        <mot_letter>
+           	Tere, otsin tööd. Sobib igasugune töö, öine vahetus jne
+</mot_letter>
+        <jobad>
+            <id>515274</id>
+            <clientJobId>1459495680</clientJobId>
+            <position>Klaabu</position>
+            <url>http://www.cvkeskus.ee/515274</url>
+        </jobad>
+    </application>
+    <application id="1023945">
+        <created>2019-01-29 11:37:21</created>
+        <cv>
+            <member_id>71107</member_id>
+            <cv_id>11937</cv_id>
+            <cv_lang>
+                <![CDATA[ee]]>
+            </cv_lang>
+            <pdf_url>
+                <![CDATA[https://www.ttu.ee/public/r/raamatukogu/juhendid/Skaneerimise_juhend.pdf]]>
+            </pdf_url>
+            <cv_headline>
+                <![CDATA[Jannushka Tammpuu CV]]>
+            </cv_headline>
+            <cv_object>
+                <![CDATA[Olen kohusetundlik neiu]]>
+            </cv_object>
+            <first_name>
+                <![CDATA[Mitu]]>
+            </first_name>
+            <last_name>
+                <![CDATA[Vaarikat]]>
+            </last_name>
+            <birthdate>1990 7 7</birthdate>
+            <gender>
+                <![CDATA[naine]]>
+            </gender>
+            <mother_lang>
+                <![CDATA[eesti]]>
+            </mother_lang>
+            <m_status>
+                <![CDATA[vallaline]]>
+            </m_status>
+            <email>punane.maasikas@poleolemas.ee</email>
+            <phone>+372232323232</phone>
+            <address>
+                <![CDATA[Sõpruse pst 57 39, Tallinn]]>
+            </address>
+            <photo>https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Koala_climbing_tree.jpg/240px-Koala_climbing_tree.jpg</photo>
+            <uploaded_cv_url></uploaded_cv_url>
+        </cv>
+        <mot_letter>
+  		Lorem Ipsum Mot letter. orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla ...orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla ...orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla ...orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla ...orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla ...orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla ...
+  	</mot_letter>
+        <answers>
+            <answer>
+                <![CDATA[E R kl 9 17 русский язык ]]>
+            </answer>
+            <answer>
+                <![CDATA[Õhtune. По русски]]>
+            </answer>
+            <answer>
+                <![CDATA[1000 eur bruto. Что.то тут по русски]]>
+            </answer>
+        </answers>
+        <jobad>
+            <id>11276776</id>
+            <clientJobId>1459495680</clientJobId>
+            <position>Klaabu</position>
+            <url>http://www.cvkeskus.ee/11276776</url>
+        </jobad>
+    </application>
+</applications>
