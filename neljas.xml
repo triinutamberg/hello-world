@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF 8" standalone="yes"?>
 <applications>
-    <application id="1162567">
+    <application id="1234567">
         <created>2019-02-22 16:10:33</created>
         <cv>
-            <member_id>92465</member_id>
+            <member_id>12365</member_id>
             <cv_id>13458</cv_id>
             <cv_lang>ee</cv_lang>
             <appl_url>https://www.cvkeskus.ee</appl_url>
@@ -70,7 +70,7 @@
             <url>http://www.cvkeskus.ee/515274</url>
         </jobad>
     </application>
-    <application id="1923945">
+    <application id="1123945">
         <created>2019-01-29 11:37:21</created>
         <cv>
             <member_id>77777</member_id>
