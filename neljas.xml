@@ -73,8 +73,8 @@
     <application id="1123945">
         <created>2019-01-29 11:37:21</created>
         <cv>
-            <member_id>77577</member_id>
-            <cv_id>11437</cv_id>
+            <member_id>75577</member_id>
+            <cv_id>19437</cv_id>
             <cv_lang>
                 <![CDATA[ee]]>
             </cv_lang>
@@ -91,7 +91,7 @@
                 <![CDATA[Üks]]>
             </first_name>
             <last_name>
-                <![CDATA[Kaks]]>
+                <![CDATA[Kolm]]>
             </last_name>
             <birthdate>1990 7 7</birthdate>
             <gender>
@@ -103,7 +103,7 @@
             <m_status>
                 <![CDATA[vallaline]]>
             </m_status>
-            <email>eeeee@yyyyy.uu</email>
+            <email>kolm@yyyyy.uu</email>
             <phone>56628785</phone>
             <address>
                 <![CDATA[Sõpruse pst 57 39, Tallinn]]>
