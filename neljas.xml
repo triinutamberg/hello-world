@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="UTF 8" standalone="yes"?>
 <applications>
-    <application id="1239999">
+    <application id="1230099">
         <created>2019-02-22 16:10:33</created>
         <cv>
-            <member_id>700036</member_id>
+            <member_id>700446</member_id>
             <cv_id>17448</cv_id>
             <cv_lang>ee</cv_lang>
             <appl_url>https://www.cvkeskus.ee</appl_url>
             <pdf_url>https://www.tlu.ee/sites/default/files/Instituudid/HTI/Dokumendid%20ja%20juhendid/%C3%9Cli%C3%B5pilast%C3%B6%C3%B6de%20juhend.pdf</pdf_url>
             <cv_headline>Avatud uutele kogemustele!</cv_headline>
-            <cv_object>Eesmärgiks on proovida uusi asju elus ning saada rohkem kogemusi erinevates valdkondades,</cv_object>
-            <first_name>Eerika</first_name>
-            <last_name>Taim</last_name>
+            <cv_object>Eesmärgiks on proovida uusi ameteid ning saada rohkem kogemusi erinevates valdkondades,</cv_object>
+            <first_name>Imbi</first_name>
+            <last_name>Leht</last_name>
             <birthdate>1993-3-2</birthdate>
             <gender>naine</gender>
             <mother_lang>eesti</mother_lang>
             <m_status>abielus</m_status>
-            <email></email>
+            <email>imbi@imbs.ee</email>
             <phone></phone>
             <address>Rapla maakond, Rapla linn, Piiri 2-4</address>
             <photo/>
@@ -70,10 +70,10 @@
             <url>http://www.cvkeskus.ee/515274</url>
         </jobad>
     </application>
-    <application id="9876988">
+    <application id="9879988">
         <created>2019-01-29 11:37:21</created>
         <cv>
-            <member_id>98008</member_id>
+            <member_id>980776</member_id>
             <cv_id>19437</cv_id>
             <cv_lang>
                 <![CDATA[ee]]>
@@ -82,16 +82,16 @@
                 <![CDATA[https://www.ttu.ee/public/r/raamatukogu/juhendid/Skaneerimise_juhend.pdf]]>
             </pdf_url>
             <cv_headline>
-                <![CDATA[Jannushka Tammpuu CV]]>
+                <![CDATA[Minu 2020 CV]]>
             </cv_headline>
             <cv_object>
                 <![CDATA[Olen kohusetundlik neiu]]>
             </cv_object>
             <first_name>
-                <![CDATA[Julia]]>
+                <![CDATA[Cookie]]>
             </first_name>
             <last_name>
-                <![CDATA[Karu]]>
+                <![CDATA[Monster]]>
             </last_name>
             <birthdate>1990 7 7</birthdate>
             <gender>
@@ -103,7 +103,7 @@
             <m_status>
                 <![CDATA[vallaline]]>
             </m_status>
-            <email>ddduuuude@gmail.ee</email>
+            <email>cookie@gmail.ee</email>
             <phone>56628085</phone>
             <address>
                 <![CDATA[Sõpruse pst 57 39, Tallinn]]>
